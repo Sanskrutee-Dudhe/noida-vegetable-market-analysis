@@ -1,6 +1,6 @@
 <h1 align="center"> Vegetable Market Analysis </h1>
 
-![image](./Images/veg_img.jpg)
+![image](https://github.com/Sanskrutee-Dudhe/noida-vegetable-market-analysis/blob/master/Images/veg_img.jpg)
 <br>
 
 ## 👁️Project Overview
