@@ -1,6 +1,6 @@
 <h1 align="center"> Vegetable Market Analysis </h1>
 
-<img src="./Images/veg_img.jpg" >
+![image](./Images/veg_img.jpg)
 <br>
 
 ## 👁️Project Overview
