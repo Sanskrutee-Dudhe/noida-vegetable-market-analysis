@@ -1,6 +1,8 @@
 <h1 align="center"> Vegetable Market Analysis </h1>
-
+<div align="center">
+  
 ![market](https://github.com/Sanskrutee-Dudhe/noida-vegetable-market-analysis/assets/122347459/36ddc70b-a1ce-425c-a026-9421386e4673)
+</div>
 
 ## 👁️Project Overview
 
@@ -91,10 +93,9 @@ These two distinct analyses shed light on different facets of the vegetable mark
 <br>
 
 ## 📊Visulization
-<img src="https://github.com/AmarjeetRoy/Vegetable_Market_Analysis/assets/137817362/10cae715-8210-40dd-b9b3-779323dd6801" >
+<img src="https://github.com/Sanskrutee-Dudhe/noida-vegetable-market-analysis/assets/122347459/6c75c55c-d18c-4650-b9c5-fb6b9f752b11" >
 <br><br>
-<img src="https://github.com/AmarjeetRoy/Vegetable_Market_Analysis/assets/137817362/608b2493-f2ed-4785-a6be-9eb4ffe33ab7" >
-
+<img src="https://github.com/Sanskrutee-Dudhe/noida-vegetable-market-analysis/assets/122347459/d0e9454d-20cd-4ec2-b150-dc89d779a248" >
 <br><br>
 
 
